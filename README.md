@@ -25,7 +25,7 @@ Nessa série de vídeos iremos desenvolver uma aplicação semelhante a uma todo
 ### TODO list Java + Spring + Heroku - 03 - Criando e listando as tarefas
 
 
-### TODO list Java + Spring + Heroku - 04 - Editando, atualizando e excluindo as tarefas
+### TODO list Java + Spring + Heroku - 04 - Editando/atualizando e excluindo as tarefas
 
 
 ### TODO list Java + Spring + Heroku - 05 - Documentando a aplicação com o swagger
