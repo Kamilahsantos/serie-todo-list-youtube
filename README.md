@@ -19,7 +19,7 @@ Nessa série de vídeos iremos desenvolver uma aplicação semelhante a uma todo
 ### [To-do List | Java + Spring + Heroku - 01- Apresentação do conteúdo da série](https://www.youtube.com/watch?v=un7EgWqgNMs&t=116s)
 
 
-### To-do List | Java  + Spring + Heroku - 02 - Criando o projeto no spring initialzr e configurando o h2 database
+### To-do List | Java  + Spring + Heroku - 02 - Criando o projeto no spring initialzr e criando a tabela no h2 database
 
 
 ### To-do List | Java + Spring + Heroku - 03 - Criando e listando as tarefas
